@@ -34,17 +34,27 @@ Construyo **SaaS B2B**, **ERPs multi-tenant** e **integraciones SUNAT** para emp
 
 > *"Código limpio, entregas constantes y valor real para el usuario."*
 
-```typescript
-const maco = {
-  ubicacion:   "Chiclayo, Lambayeque 🇵🇪",
-  rol:         "Full-Stack Engineer & Founder",
-  empresa:     "MacSoft E.I.R.L.",
-  formacion:   "Ing. de Sistemas — UNPRG",
-  enseñando:   "Desarrollo Web @ CETI Chiclayo",
-  os:          "Fedora Linux 🐧",
-  enfoque:     ["SaaS B2B", "ERPs multi-tenant", "SUNAT"],
-  pasiones:    ["Linux", "Open-Source", "Gaming", "Streaming"]
-};
+```js
+class Maco {
+  constructor() {
+    this.name        = "César Jesús Rojas Maco";
+    this.role        = "Full-Stack Engineer & Founder";
+    this.company     = "MacSoft E.I.R.L.";
+    this.location    = "Chiclayo, Lambayeque 🇵🇪";
+    this.education   = "Ing. de Sistemas — UNPRG";
+    this.teaching    = "Desarrollo Web @ CETI Chiclayo";
+    this.os          = "Fedora Linux 🐧";
+    this.stack       = ["Laravel", "React", "Next.js", "PostgreSQL"];
+    this.focus       = ["SaaS B2B", "ERPs multi-tenant", "SUNAT"];
+    this.passions    = ["Linux", "Open-Source", "Gaming", "Streaming"];
+  }
+
+  motto() {
+    return "Código limpio, entregas constantes, valor real.";
+  }
+}
+
+const maco = new Maco();
 ```
 
 <br clear="right"/>
