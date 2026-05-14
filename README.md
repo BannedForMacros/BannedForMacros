@@ -20,9 +20,11 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mí
+## 👋 Sobre mí
 
-<img align="right" src="https://raw.githubusercontent.com/BannedForMacros/BannedForMacros/master/coder.gif" width="320" alt="Pixel art programmer"/>
+<table>
+<tr>
+<td width="62%" valign="top">
 
 Soy **Ingeniero de Sistemas** egresado de la **UNPRG**, fundador de **MacSoft E.I.R.L.** y desarrollador Full-Stack basado en **Chiclayo, Perú** 🇵🇪.
 
@@ -33,6 +35,15 @@ Construyo **SaaS B2B**, **ERPs multi-tenant** e **integraciones SUNAT** para emp
 🎮 En mi tiempo libre: **gaming, streaming y experimentar con hardware**.
 
 > *"Código limpio, entregas constantes y valor real para el usuario."*
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/BannedForMacros/BannedForMacros/master/coder.gif" width="100%" alt="Pixel art programmer"/>
+
+</td>
+</tr>
+</table>
 
 ```js
 class Maco {
@@ -56,8 +67,6 @@ class Maco {
 
 const maco = new Maco();
 ```
-
-<br clear="right"/>
 
 ---
 
