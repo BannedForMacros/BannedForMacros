@@ -22,7 +22,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mí
 
-<img align="right" src="https://raw.githubusercontent.com/BannedForMacros/BannedForMacros/main/coder.gif" width="320" alt="Pixel art programmer"/>
+<img align="right" src="https://raw.githubusercontent.com/BannedForMacros/BannedForMacros/master/coder.gif" width="320" alt="Pixel art programmer"/>
 
 Soy **Ingeniero de Sistemas** egresado de la **UNPRG**, fundador de **MacSoft E.I.R.L.** y desarrollador Full-Stack basado en **Chiclayo, Perú** 🇵🇪.
 
