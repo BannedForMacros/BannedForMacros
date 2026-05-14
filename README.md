@@ -1,9 +1,9 @@
-<!-- 🎮 HEADER ANIMADO ESTILO GAMING -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BannedForMacros&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20Founder%20%40%20MacSoft%20%E2%9A%A1&descAlignY=60&descSize=18" width="100%"/>
+<!-- 🌊 HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=BannedForMacros&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Founder%20%40%20MacSoft%20E.I.R.L.&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- 🎯 TYPING ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Maco+%F0%9F%91%8B;Full-Stack+Engineer;Founder+%40+MacSoft+E.I.R.L.;Coding+from+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Maco+%F0%9F%91%8B;Full-Stack+Engineer;Founder+%40+MacSoft+E.I.R.L.;Linux+%26+Open-Source+enthusiast+%F0%9F%90%A7;Building+SaaS+from+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
 </h1>
 
 <!-- 🎮 BADGES PRINCIPALES -->
@@ -14,248 +14,194 @@
   <a href="mailto:contacto@macsoftperu.com">
     <img src="https://img.shields.io/badge/Email-1B4A9E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=BannedForMacros&label=Visitas%20al%20perfil&color=a855f7&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/BannedForMacros?label=Followers&style=for-the-badge&color=ec4899&labelColor=302b63" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=BannedForMacros&label=Visitas%20al%20perfil&color=60a5fa&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/BannedForMacros?label=Followers&style=for-the-badge&color=1B4A9E&labelColor=0F2D5C" alt="Followers"/>
 </p>
 
-<!-- 🌌 SEPARADOR ANIMADO -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+---
 
-<!-- 👾 SOBRE MÍ CON PIXEL ART -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Sobre mí
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mí
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="https://media.tenor.com/x8v97rgaLOEAAAAi/pixel-art.gif" width="320" alt="Pixel art programmer"/>
+
+Soy **Ingeniero de Sistemas** egresado de la **UNPRG**, fundador de **MacSoft E.I.R.L.** y desarrollador Full-Stack basado en **Chiclayo, Perú** 🇵🇪.
+
+Construyo **SaaS B2B**, **ERPs multi-tenant** e **integraciones SUNAT** para empresas peruanas. También enseño **Desarrollo Web** en **CETI Chiclayo**.
+
+🐧 **Apasionado de Linux** — uso **Fedora** como sistema principal, terminal personalizada con **Zsh + Starship** y soy creyente del **open-source** como motor de innovación.
+
+🎮 En mi tiempo libre: **gaming, streaming y experimentar con hardware**.
+
+> *"Código limpio, entregas constantes y valor real para el usuario."*
 
 ```typescript
 const maco = {
-  ubicacion: "Chiclayo, Lambayeque 🇵🇪",
-  rol: "Full-Stack Engineer & Founder",
-  empresa: "MacSoft E.I.R.L.",
-  formacion: "Ing. de Sistemas — UNPRG",
-  enseñando: "Desarrollo Web @ CETI Chiclayo",
-  enfoque: [
-    "SaaS B2B",
-    "ERPs multi-tenant",
-    "Integraciones SUNAT"
-  ],
-  filosofia: "Código limpio, entregas constantes",
-  pasiones: ["Gaming 🎮", "Streaming 📹", "Linux 🐧"],
-  buscando: "Construir software que mueva la aguja"
+  ubicacion:   "Chiclayo, Lambayeque 🇵🇪",
+  rol:         "Full-Stack Engineer & Founder",
+  empresa:     "MacSoft E.I.R.L.",
+  formacion:   "Ing. de Sistemas — UNPRG",
+  enseñando:   "Desarrollo Web @ CETI Chiclayo",
+  os:          "Fedora Linux 🐧",
+  enfoque:     ["SaaS B2B", "ERPs multi-tenant", "SUNAT"],
+  pasiones:    ["Linux", "Open-Source", "Gaming", "Streaming"]
 };
 ```
 
-</td>
-<td width="40%" align="center">
+<br clear="right"/>
 
-<img src="https://media.giphy.com/media/W9tBvzTXkQopi/giphy.gif" width="100%" alt="Coding gif"/>
+---
 
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=statuspage&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- 🛠️ TECH STACK -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
 ### ⚡ Lenguajes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP" title="PHP"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" title="TypeScript"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55" alt="Dart" title="Dart"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" title="Kotlin"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="Bash" title="Bash"/></a>
 </p>
 
 ### 🔧 Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" height="55" alt="Laravel" title="Laravel"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" title="Node.js"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="55" height="55" alt="NestJS" title="NestJS"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express" title="Express" style="filter: invert(1);"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" title="Flask"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot" title="Spring Boot"/></a>
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" title="React"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" title="Next.js"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="55" height="55" alt="Angular" title="Angular"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind" title="Tailwind"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3"/></a>
 </p>
 
 ### 📱 Mobile
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" title="Flutter"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React Native" title="React Native"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" title="Android"/></a>
 </p>
 
 ### 🗄️ Bases de datos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" title="MySQL"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="SQL Server" title="SQL Server"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" title="Redis"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" height="55" alt="Supabase" title="Supabase"/></a>
 </p>
 
 ### ☁️ DevOps & Infraestructura
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" title="Linux"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="55" height="55" alt="Fedora" title="Fedora"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx" title="Nginx"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" title="Docker"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="55" height="55" alt="Cloudflare" title="Cloudflare"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55" alt="AWS" title="AWS"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel" title="Vercel"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub Actions" title="GitHub Actions"/></a>
 </p>
 
-### 🤖 IA & Automatización
+### 🛠️ Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" title="VS Code"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" title="Git"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma" title="Figma"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" title="Postman"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnubash/gnubash-original.svg" width="55" height="55" alt="Bash" title="Bash"/></a>
 </p>
 
-### 🧰 Herramientas
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-</p>
-
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- 📊 STATS DE GITHUB -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BannedForMacros&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&title_color=a855f7&icon_color=ec4899&text_color=ffffff&bg_color=0d0221" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=BannedForMacros&theme=synthwave&hide_border=true&background=0d0221&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BannedForMacros&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0F2D5C&title_color=60A5FA&icon_color=60A5FA&text_color=ffffff&border_color=1B4A9E&hide_border=false" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=BannedForMacros&theme=tokyonight&background=0F2D5C&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&border=1B4A9E&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BannedForMacros&layout=compact&langs_count=12&theme=synthwave&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d0221" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BannedForMacros&layout=compact&langs_count=12&theme=tokyonight&bg_color=0F2D5C&title_color=60A5FA&text_color=ffffff&border_color=1B4A9E&hide_border=false" alt="Top Languages"/>
 </p>
 
-<!-- 🐍 SNAKE ANIMADO -->
-<h3 align="center">🐍 Mis contribuciones devoradas por la serpiente</h3>
+---
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeHCWqAjt/giphy.gif" width="28"> Trofeos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BannedForMacros/BannedForMacros/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BannedForMacros&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies"/>
 </p>
 
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<!-- 🏆 TROFEOS -->
-## <img src="https://media.giphy.com/media/jpVnC65DmYeHCWqAjt/giphy.gif" width="28px"> Trofeos
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> Gráfico de actividad
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BannedForMacros&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BannedForMacros&bg_color=0F2D5C&color=60A5FA&line=60A5FA&point=ffffff&area=true&hide_border=false&custom_title=Actividad%20de%20Contribuciones" alt="Activity Graph"/>
 </p>
 
-<!-- 📈 GRÁFICO DE ACTIVIDAD -->
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28px"> Gráfico de actividad
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BannedForMacros&bg_color=0d0221&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=Actividad%20de%20Contribuciones" alt="Activity Graph"/>
-</p>
-
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- 💡 ESPECIALIDADES -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px"> En lo que me especializo
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> En lo que me especializo
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
       <h3>🏗️ Arquitectura SaaS</h3>
       <p>Sistemas multi-tenant, multi-empresa y multi-local con roles y permisos dinámicos.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
       <h3>⚙️ ERPs a medida</h3>
       <p>Inventarios, cajas, facturación, reportes financieros y workflows complejos.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80"/>
       <h3>🇵🇪 Integraciones SUNAT</h3>
       <p>Facturación electrónica, libros electrónicos y cumplimiento tributario peruano.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/jpVnC65DmYeHCWqAjt/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/jpVnC65DmYeHCWqAjt/giphy.gif" width="80"/>
       <h3>🚀 Deploy & Self-hosting</h3>
       <p>Configuración de VPS, Nginx, PM2, certificados SSL, dominios y subdominios.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
       <h3>🔌 Integraciones físicas</h3>
       <p>Impresoras térmicas, ESP32, dashboards IoT y hardware embebido.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
       <h3>🤖 IA aplicada</h3>
       <p>Visión por computadora, reconocimiento facial y chatbots con LLMs.</p>
     </td>
   </tr>
 </table>
 
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<!-- 🎮 SETUP DE TRABAJO -->
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28px"> Mi Setup
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Mi Setup
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Fedora_Linux-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
@@ -268,13 +214,9 @@ const maco = {
   <img src="https://img.shields.io/badge/Font-JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 </p>
 
-<!-- 🌌 SEPARADOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<!-- 📫 CONECTEMOS -->
-## <img src="https://media.giphy.com/media/Lq0AaORfvy0qXymZxr/giphy.gif" width="28px"> Conectemos
+## <img src="https://media.giphy.com/media/Lq0AaORfvy0qXymZxr/giphy.gif" width="28"> Conectemos
 
 <p align="center">
   <a href="https://macsoftperu.com">
@@ -289,8 +231,8 @@ const maco = {
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+hecho+en+Per%C3%BA%2C+para+escalar+al+mundo;Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F" alt="Outro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Software+hecho+en+Per%C3%BA%2C+para+escalar+al+mundo;Gracias+por+visitar+mi+perfil+%E2%9C%A8" alt="Outro"/>
 </p>
 
 <!-- 🌊 FOOTER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&reversal=true" width="100%"/>
